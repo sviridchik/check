@@ -136,6 +136,9 @@ namespace firsttry
             foreach (var n in dataFromStorage)
             {
 
+
+
+
                 Console.WriteLine(n.labels);
                 
             }

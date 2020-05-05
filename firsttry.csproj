@@ -91,6 +91,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Matrica.cs" />
+    <Compile Include="Neyro.cs" />
     <Compile Include="Numbers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
